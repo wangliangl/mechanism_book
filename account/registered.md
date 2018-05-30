@@ -32,8 +32,10 @@
 
 > 地址：[http://www.api.com/index.php?name=可口可乐&type=1](http://www.api.com/index.php?name=可口可乐&type=1)
 
+```json
 {
 "state": 0,
 "company": "可口可乐",
 "category": "饮料"
 }
+```
