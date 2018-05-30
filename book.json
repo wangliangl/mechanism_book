@@ -90,11 +90,11 @@
       "skipFirstH1": true
     },
     "edit-link": {
-      "base": "http://git2.ofashion.com.cn/api-internal_tools/git_book",
+      "base": "https://github.com/wangliangl/mechanism_book",
       "label": "编辑该页面"
     },
     "sitemap-general": {
-      "prefix": "http://git2.ofashion.com.cn/"
+      "prefix": "https://github.com/wangliangl"
     },
     "anchor-navigation-ex": {
       "isRewritePageTitle": false,
