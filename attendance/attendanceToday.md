@@ -1,9 +1,9 @@
-今日考勤
+考勤统计
 -----------
 
 #### URL
 
-> [http://120.76.218.161:8362/Mall/Worke/getAttendance](http://120.76.218.161:8362/Mall/Worker/getAttendance)
+> [http://120.76.218.161:8362/Mall/Worke/getAttendanceCount](http://120.76.218.161:8362/Mall/Worker/getAttendanceCount)
 
 #### 支持格式
 
@@ -25,11 +25,11 @@
 |返回字段|字段类型|说明 |
 |:----- |:------|:----------------------------- |
 |code | int |返回结果状态。2：不正常；1：正常。 |
-|data | array | 考勤列表信息 |
+|data | array | 考勤统计列表信息 |
 
 #### 接口示例
 
-> 地址：[http://120.76.218.161:8362/Mall/Worker/getAttendance](http://120.76.218.161:8362/Mall/Worker/getAttendance)
+> 地址：[http://120.76.218.161:8362/Mall/Worker/getAttendanceCount](http://120.76.218.161:8362/Mall/Worker/getAttendanceCount)
 
 ```json
 {
