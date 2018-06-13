@@ -33,33 +33,32 @@
 
 ```json
 {
-    "code": 1,
-        "data": [
-                {
-                            "id": "512",
-                                        "eployee_pic": "",
-                                                    "eployee_name": "程永笑",
-                                                                "eployee_address": "昌平",
-                                                                            "eployee_department": "策划部",
-                                                                                        "eployee_phone": "18310687332",
-                                                                                                    "thedate": "2018-06-12",
-                                                                                                                "punch_in": "17:00:56",
-                                                                                                                            "punch_in_state": "0",
-                                                                                                                                        "punch_out": null,
-                                                                                                                                                    "punch_out_state": null,
-                                                                                                                                                                "remarks": null,
-                                                                                                                                                                            "am_remark": "迟到",
-                                                                                                                                                                                        "pm_remark": null,
-                                                                                                                                                                                                    "card_no": "5070694",
-                                                                                                                                                                                                                "worker_id": "378",
-                                                                                                                                                                                                                            "eployee_position": "设计",
-                                                                                                                                                                                                                                        "input": null,
-                                                                                                                                                                                                                                                    "check_state": "0",
-                                                                                                                                                                                                                                                                "worker_type": "1"
-                                                                                                                                                                                                                                                                        }
-                                                                                                                                                                                                                                                                            ],
-                                                                                                                                                                                                                                                                                "total": "1",
-                                                                                                                                                                                                                                                                                    "page_count": 1
-                                                                                                                                                                                                                                                                                    }
-        ]
+    "code":1,
+    "data":[
+        {
+            "id":"512",
+            "eployee_pic":"",
+            "eployee_name":"程永笑",
+            "eployee_address":"昌平",
+            "eployee_department":"策划部",
+            "eployee_phone":"18310687332",
+            "thedate":"2018-06-13",
+            "punch_in":"17:00:56",
+            "punch_in_state":"0",
+            "punch_out":null,
+            "punch_out_state":null,
+            "remarks":null,
+            "am_remark":"迟到",
+            "pm_remark":null,
+            "card_no":"5070694",
+            "worker_id":"378",
+            "eployee_position":"设计",
+            "input":null,
+            "check_state":"0",
+            "worker_type":"1"
+        }
+    ],
+    "total":"1",
+    "page_count":1
+}
 ```
