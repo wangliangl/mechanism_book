@@ -2,6 +2,7 @@
 ### 账户管理
 * [考勤管理](attendance/attendanceManage.md)
     * [今日考勤](attendance/attendanceToday.md)
+    * [今日考勤明细](attendance/attendanceTodayDetail.md)
 ### 设备管理
 * [账户管理](account/account.md)
     * [会员注册](account/registered.md)
