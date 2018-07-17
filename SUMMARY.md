@@ -3,12 +3,14 @@
 * [考勤管理](attendance/attendanceManage.md)
     * [今日考勤](attendance/attendanceToday.md)
     * [今日考勤明细](attendance/attendanceTodayDetail.md)
+    * [考勤统计](attendance/attendanceCount.md)
+    * [考勤列表设置](attendance/attendanceTimeList.md)
 ### 设备管理
 * [账户管理](account/account.md)
     * [会员注册](account/registered.md)
 ### 员工管理
-* [员工信息管理](staff/staff_info.md)
-    * [会员注册](account/registered.md)
+* [员工详情](staff/Catalogues.md)
+    * [员工管理](staff/staff_info.md)
 ### 机构信息管理
 * [账户管理](account/account.md)
     * [会员注册](account/registered.md)
