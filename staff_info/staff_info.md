@@ -1,7 +1,7 @@
 ## 员工详细信息列表
 
 > 地址：
-[http://120.76.218.161:8362/smartmalls/Mall/Worker/index_api?pagesize=10&page=1&keyword=&dept_id=&status=](http://120.76.218.161:8362/smartmalls/Mall/Worker/index_api?pagesize=10&page=1&keyword=&dept_id=&status=)
+[http://120.76.218.161:8362/Mall/Worker/index_api?pagesize=10&page=1&keyword=&dept_id=&status=](http://120.76.218.161:8362/Mall/Worker/index_api?pagesize=10&page=1&keyword=&dept_id=&status=)
 
 #### 支持格式
 
@@ -51,7 +51,7 @@
 ```
 
 ## 员工详情
->地址 [http://120.76.218.161:8362/smartmalls/Mall/Worker/worker_view_api](http://120.76.218.161:8362/smartmalls/Mall/Worker/worker_view_api)
+>地址 [http://120.76.218.161:8362/Mall/Worker/worker_view_api](http://120.76.218.161:8362/Mall/Worker/worker_view_api)
 >返回值
 #### 支持格式
 
