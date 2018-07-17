@@ -1,5 +1,6 @@
 ## 员工详细信息列表
 
+#### 接口地址
 > 地址：
 [http://120.76.218.161:8362/Mall/Worker/index_api?pagesize=10&page=1&keyword=&dept_id=&status=](http://120.76.218.161:8362/Mall/Worker/index_api?pagesize=10&page=1&keyword=&dept_id=&status=)
 
@@ -51,8 +52,10 @@
 ```
 
 ## 员工详情
+
+#### 接口地址
 >地址 [http://120.76.218.161:8362/Mall/Worker/worker_view_api](http://120.76.218.161:8362/Mall/Worker/worker_view_api)
->返回值
+
 #### 支持格式
 
 > JSON
@@ -119,6 +122,20 @@
 }
 ```
 
-## 删除员工
-## 添加员工
-## 修改员工
+## 商场员工增删改
+
+#### 接口地址
+>地址 [http://120.76.218.161:8362/Mall/Worker/worker_dml_api](http://120.76.218.161:8362/Mall/Worker/worker_dml_api)
+
+#### 支持格式
+
+> JSON
+
+#### HTTP请求方式
+
+> GET
+
+#### 请求参数
+|参数|必选|类型|说明|
+|:----- |:-------|:-----:|
+|worker_id|Y |员工id|
