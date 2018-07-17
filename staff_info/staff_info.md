@@ -1,6 +1,26 @@
 ## 员工详细信息列表
 
-> 地址： [http://120.76.218.161:8362/smartmalls/Mall/Worker/index_api?pagesize=10&page=1&keyword=&dept_id=&status=]
+> 地址：
+[http://120.76.218.161:8362/smartmalls/Mall/Worker/index_api?pagesize=10&page=1&keyword=&dept_id=&status=](http://120.76.218.161:8362/smartmalls/Mall/Worker/index_api?pagesize=10&page=1&keyword=&dept_id=&status=)
+
+#### 支持格式
+
+> JSON
+
+#### HTTP请求方式
+
+> GET
+
+#### 请求参数
+|参数|必选|类型|说明|
+|:----- |:-------|:-----:|
+| page|NO |页数|
+|pagesize|N| 每页几条
+|keyword|N| 每页几条
+|dept_id|N| 部门id
+|status|N| 用户状态
+
+#### 返回值
 > 返回值
 
 ```json
@@ -29,9 +49,23 @@
     "page_count":1
 }
 ```
+
 ## 员工详情
->地址 [http://120.76.218.161:8362/smartmalls/Mall/Worker/worker_view_api]
+>地址 [http://120.76.218.161:8362/smartmalls/Mall/Worker/worker_view_api](http://120.76.218.161:8362/smartmalls/Mall/Worker/worker_view_api)
 >返回值
+#### 支持格式
+
+> JSON
+
+#### HTTP请求方式
+
+> GET
+
+#### 请求参数
+|参数|必选|类型|说明|
+|:----- |:-------|:-----:|
+|worker_id|Y |员工id|
+
 
 ```json
 {
