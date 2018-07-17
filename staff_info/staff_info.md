@@ -122,7 +122,7 @@
 }
 ```
 
-## 商场员工增删改
+## 商场员工增,删,改
 
 #### 接口地址
 >地址 [http://120.76.218.161:8362/Mall/Worker/worker_dml_api](http://120.76.218.161:8362/Mall/Worker/worker_dml_api)
