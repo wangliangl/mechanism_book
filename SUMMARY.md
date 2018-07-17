@@ -7,7 +7,7 @@
 * [账户管理](account/account.md)
     * [会员注册](account/registered.md)
 ### 员工管理
-* [账户管理](account/account.md)
+* [员工信息管理](staff/staff_info.md)
     * [会员注册](account/registered.md)
 ### 机构信息管理
 * [账户管理](account/account.md)
